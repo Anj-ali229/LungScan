@@ -1,0 +1,11 @@
+gradio>=4.0.0
+torch>=2.0.0
+torchvision>=0.15.0
+numpy
+opencv-python-headless
+matplotlib
+Pillow
+scikit-image
+scipy
+pydicom
+huggingface_hub
